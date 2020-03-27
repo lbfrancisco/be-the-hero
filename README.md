@@ -15,8 +15,6 @@
 </p>
 
 # Layout WEB
-> Disponível em breve
-
 
 <p align="center">
   <img alt="Image 1" src="https://user-images.githubusercontent.com/61571063/77597497-df376a00-6edd-11ea-85a0-2a79220f93c8.png" height="100" width="200">
@@ -26,6 +24,7 @@
 </p>
 
 # Layout Mobile
+> Disponível em breve
 
 # Clonar o projeto
 > ```git clone https://github.com/LucasKyze/be-the-hero.git```
